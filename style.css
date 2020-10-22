@@ -1,6 +1,8 @@
 [aria-label="Timeline: Trending now"],
 [aria-label="Who to follow"],
 [aria-label="الخطّ الزمنيّ: المتداوَل الآن"],
-[aria-label="اقتراحات المتابعة"] {
+[aria-label="اقتراحات المتابعة"],
+[aria-label="Oś czasu: Aktualne trendy"],
+[aria-label="Warci obserwowania"] {
     display: none !important;
 }
