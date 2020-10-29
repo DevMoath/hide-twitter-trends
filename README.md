@@ -25,11 +25,11 @@ If you don't like the `twitter trends` and `who to follow` tabs, and you want to
 
 ### Before enable the extension
 
-![before](screenshots/before.jpg)
+![before](screenshots/before.png)
 
 ### After enable the extension
 
-![after](screenshots/after.jpg)
+![after](screenshots/after.png)
 
 ## Contributing
 
@@ -44,5 +44,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 - [DevMoath](https://github.com/devmoath)
 
 ## License
+
+Icons made by [Pixel perfect](https://icon54.com/) from [www.flaticon.com](https://www.flaticon.com/)
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
