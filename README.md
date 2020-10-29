@@ -7,11 +7,21 @@
 [![GitHub forks](https://img.shields.io/github/forks/DevMoath/hide-twitter-trends?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=appveyor)](https://github.com/DevMoath/hide-twitter-trends/blob/master/LICENSE)
 
+## Table of Contents
+
+- [Overview](#overview)
+    - [Before enable the extension](#before-enable-the-extension)
+    - [After enable the extension](#after-enable-the-extension)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
+- [Credits](#credits)
+- [License](#license)
+
+## Overview
+
 If you don't like the `twitter trends` and `who to follow` tabs, and you want to hide it this extension is your solution, this extension will hide twitter trends and who to follow tabs from twitter web app and let you focus on your timeline.
 
-**Supported languages**: `Arabic`, `English`, `Polish`.
-
-> Feel free to create pull request and support your language.  
+**NOTE**: Supported languages is `Arabic`, `English`, `Polish`.
 
 ### Before enable the extension
 
@@ -21,10 +31,18 @@ If you don't like the `twitter trends` and `who to follow` tabs, and you want to
 
 ![after](screenshots/after.jpg)
 
+## Contributing
+
+Feel free to create pull request and support your language.
+
+## Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
 ## Credits
 
 - [DevMoath](https://github.com/devmoath)
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
