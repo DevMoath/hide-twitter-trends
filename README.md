@@ -10,6 +10,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+    - [Install the extension](#install-the-extension)
     - [Before enable the extension](#before-enable-the-extension)
     - [After enable the extension](#after-enable-the-extension)
 - [Contributing](#contributing)
@@ -22,6 +23,11 @@
 If you don't like the `twitter trends` and `who to follow` tabs, and you want to hide it this extension is your solution, this extension will hide twitter trends and who to follow tabs from twitter web app and let you focus on your timeline.
 
 **NOTE**: Supported languages is `Arabic`, `English`, `Polish`.
+
+### Install the extension
+
+* [Google chrome browser](https://chrome.google.com/webstore/detail/hide-twitter-trends/lapmncfnibdclongbkleadoicnkhknia?hl=en&authuser=0)
+* [Firefox browser](https://addons.mozilla.org/en-US/firefox/addon/hide-twitter-trends-side/)
 
 ### Before enable the extension
 
