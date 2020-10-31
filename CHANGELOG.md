@@ -2,6 +2,10 @@
 
 All notable changes to `Hide Twitter Trends` will be documented in this file
 
+## 0.5 - 2020-10-31
+
+* Hide `who to follow` and `topics to follow` in user profile
+
 ## 0.4 - 2020-10-30
 
 * Update extension icon
