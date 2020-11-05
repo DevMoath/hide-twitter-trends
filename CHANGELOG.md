@@ -2,6 +2,10 @@
 
 All notable changes to `Hide Twitter Trends` will be documented in this file
 
+## 0.6 - 2020-10-31
+
+*  Add support for Portuguese and Japanese languages
+
 ## 0.5 - 2020-10-31
 
 * Hide `who to follow` and `topics to follow` in user profile
