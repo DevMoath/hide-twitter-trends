@@ -48,6 +48,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Credits
 
 - [DevMoath](https://github.com/devmoath)
+- [All Contributors](../../contributors)
 
 ## License
 
