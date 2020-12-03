@@ -1,11 +1,11 @@
 # Hide Twitter Trends [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://github.com/DevMoath/hide-twitter-trends)](https://twitter.com/intent/tweet?text=Hide%20Twitter%20Trends%20@DevMoath%20https://github.com/DevMoath/hide-twitter-trends)
 
 [![Release](https://img.shields.io/github/v/release/devmoath/hide-twitter-trends?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/releases)
-[![GitHub issues](https://img.shields.io/github/issues/DevMoath/hide-twitter-trends.svg?style=for-the-badge&logo=appveyor)](https://github.com/DevMoath/hide-twitter-trends/issues)
-[![GitHub stars](https://img.shields.io/github/stars/DevMoath/hide-twitter-trends.svg?style=for-the-badge&logo=appveyor)](https://github.com/DevMoath/hide-twitter-trends/stargazers)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/DevMoath/hide-twitter-trends?style=for-the-badge&logo=appveyor)](https://github.com/DevMoath/hide-twitter-trends/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/DevMoath/hide-twitter-trends.svg?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/issues)
+[![GitHub stars](https://img.shields.io/github/stars/DevMoath/hide-twitter-trends.svg?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/stargazers)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/DevMoath/hide-twitter-trends?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/pulls)
 [![GitHub forks](https://img.shields.io/github/forks/DevMoath/hide-twitter-trends?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=appveyor)](https://github.com/DevMoath/hide-twitter-trends/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://github.com/DevMoath/hide-twitter-trends/blob/master/LICENSE)
 
 ## Table of Contents
 
