@@ -2,6 +2,10 @@
 
 All notable changes to `Hide Twitter Trends` will be documented in this file
 
+## 0.8 - 2021-02-02
+
+* Add support for `German`
+
 ## 0.7 - 2020-11-07
 
 * Fix bugs
