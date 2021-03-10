@@ -2,6 +2,11 @@
 
 All notable changes to `Hide Twitter Trends` will be documented in this file
 
+## 0.9 - 2021-03-10
+
+* Fix bugs
+* Reduce sidebar column width [#3](https://github.com/DevMoath/hide-twitter-trends/issues/3) 
+
 ## 0.8 - 2021-02-02
 
 * Add support for `German`
