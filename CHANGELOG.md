@@ -2,6 +2,10 @@
 
 All notable changes to `Hide Twitter Trends` will be documented in this file
 
+## 0.9.1 - 2021-03-12
+
+* Fix empty space in profile page
+
 ## 0.9 - 2021-03-10
 
 * Fix bugs
