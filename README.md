@@ -27,7 +27,6 @@ If you don't like the `twitter trends` and `who to follow` tabs, and you want to
 ### Install the extension
 
 * [Google chrome browser](https://chrome.google.com/webstore/detail/hide-twitter-trends/lapmncfnibdclongbkleadoicnkhknia?hl=en&authuser=0)
-* [Firefox browser](https://addons.mozilla.org/en-US/firefox/addon/hide-twitter-trends-side/)
 
 ### Before enable the extension
 
