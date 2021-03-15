@@ -40,10 +40,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Credits
 
 - [Moath](https://github.com/devmoath)
-- [All Contributors](../../contributors)
+- [All Contributors](https://github.com/DevMoath/hide-twitter-trends/graphs/contributors)
 
 ## License
 
 Icons made by [Pixel perfect](https://icon54.com/) from [www.flaticon.com](https://www.flaticon.com/)
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
