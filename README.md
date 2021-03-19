@@ -3,12 +3,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-    - [Install the extension](#install-the-extension)
-    - [Before enable the extension](#before-enable-the-extension)
-    - [After enable the extension](#after-enable-the-extension)
-- [Contributing](#contributing)
-- [Changelog](#changelog)
-- [Credits](#credits)
+- [Install the extension](#install-the-extension)
+- [Before enable the extension](#before-enable-the-extension)
+- [After enable the extension](#after-enable-the-extension)
 - [License](#license)
 
 ## Overview
@@ -17,30 +14,17 @@ If you don't like the `twitter trends` and `who to follow` tabs, and you want to
 
 **NOTE**: Supported languages is `Arabic`, `English`, `Polish`, `Portuguese`, `Japanese`, and `German`.
 
-### Install the extension
+## Install the extension
 
 * [Google chrome browser](https://chrome.google.com/webstore/detail/hide-twitter-trends/lapmncfnibdclongbkleadoicnkhknia?hl=en&authuser=0)
 
-### Before enable the extension
+## Before enable the extension
 
 ![before](screenshots/before.png)
 
-### After enable the extension
+## After enable the extension
 
 ![after](screenshots/after.png)
-
-## Contributing
-
-Feel free to create pull request and support your language.
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Credits
-
-- [Moath](https://github.com/devmoath)
-- [All Contributors](https://github.com/DevMoath/hide-twitter-trends/graphs/contributors)
 
 ## License
 
