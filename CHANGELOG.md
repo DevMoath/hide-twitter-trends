@@ -2,6 +2,10 @@
 
 All notable changes to `Hide Twitter Trends` will be documented in this file
 
+## 0.9.3 - 2021-03-19
+
+* update manifest_version to 3
+
 ## 0.9.2 - 2021-03-17
 
 * :bug: fix width for the white theme primaryColumn
