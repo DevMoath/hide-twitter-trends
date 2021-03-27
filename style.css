@@ -11,7 +11,8 @@
 [aria-label="タイムライン: トレンド"],
 [aria-label="おすすめユーザー"],
 #react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(6) > div > section > div,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(5) > div > section > div {
+#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(5) > div > section > div,
+#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(4){
     display: none !important;
 }
 

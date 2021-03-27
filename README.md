@@ -20,11 +20,11 @@ If you don't like the Twitter `Trending now`, `Who to follow`, and `Topics to fo
 
 ## Before enable the extension
 
-![before](screenshots/before.png)
+![before](img/before.png)
 
 ## After enable the extension
 
-![after](screenshots/after.png)
+![after](img/after.png)
 
 ## License
 
