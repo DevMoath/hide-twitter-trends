@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Hide Twitter Trends",
     "version": "0.9.7",
-    "description": "Hide Twitter (Trending now, Who to follow, Topics to follow) elements",
+    "description": "Hide Twitter (What’s happening, Who to follow, Topics to follow) elements",
     "icons": {
         "16": "img/icon_16.png",
         "32": "img/icon_32.png",

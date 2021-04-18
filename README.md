@@ -1,6 +1,6 @@
 # Hide Twitter Trends
 
-If you don't like the Twitter `Trending now`, `Who to follow`, and `Topics to follow` tabs, and you want to hide it this extension is your solution, this extension will hide Twitter `Trending now`, `Who to follow`, and `Topics to follow` tabs from Twitter web app and let you focus on your timeline.
+If you don't like the Twitter `What’s happening`, `Who to follow`, and `Topics to follow` tabs, and you want to hide it this extension is your solution, this extension will hide Twitter `What’s happening`, `Who to follow`, and `Topics to follow` tabs from Twitter web app and let you focus on your timeline.
 
 **NOTE**: Supported languages is `Arabic`, `English`, `Polish`, `Portuguese`, `Japanese`, and `German`.
 
