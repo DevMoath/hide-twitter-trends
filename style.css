@@ -1,37 +1,37 @@
-[aria-label="Timeline: Trending now"],
-[aria-label="Who to follow"],
-[aria-label="Timeline: Aktuelle Trends"],
-[aria-label="Wem folgen?"],
-[aria-label="الخطّ الزمنيّ: المتداوَل الآن"],
-[aria-label="اقتراحات المتابعة"],
-[aria-label="Oś czasu: Aktualne trendy"],
-[aria-label="Warci obserwowania"],
-[aria-label="Timeline: Assuntos do momento"],
-[aria-label="Quem seguir"],
-[aria-label="タイムライン: トレンド"],
-[aria-label="おすすめユーザー"],
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(2),
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(6) > div > section > div,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(5) > div > section > div,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div:nth-child(4){
-    display: none !important;
-}
+@media (min-width: 1000px) {
+    /*
+     * (What’s happening, Who to follow, Topics to follow) elements in each languages supported by the extension
+     */
+    [aria-label="Timeline: Trending now"],
+    [aria-label="Who to follow"],
+    [aria-label="Timeline: Aktuelle Trends"],
+    [aria-label="Wem folgen?"],
+    [aria-label="الخطّ الزمنيّ: المتداوَل الآن"],
+    [aria-label="اقتراحات المتابعة"],
+    [aria-label="Oś czasu: Aktualne trendy"],
+    [aria-label="Warci obserwowania"],
+    [aria-label="Timeline: Assuntos do momento"],
+    [aria-label="Quem seguir"],
+    [aria-label="タイムライン: トレンド"],
+    [aria-label="おすすめユーザー"],
+    [aria-label="الخطّ الزمنيّ: "],
+    [aria-label="Tidslinje: På uppgång nu"],
+    [aria-label="Rekommenderade konton"],
+    [aria-label="Timeline: "] {
+        display: none !important;
+        background-color: inherit !important;
+        border: none !important;
+        height: 0 !important;
+        width: 0 !important;
+    }
 
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div.css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-1867qdf.r-1phboty.r-rs99b7.r-le4sbl.r-1bro5k0.r-1udh08x,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1hycxz > div > div > div > div.css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1bro5k0.r-1udh08x {
-    background-color: inherit !important;
-    border: none !important;
-    display: none !important;
-}
+    /* timeline column, default value is 600px */
+    .r-1ye8kvj {
+        max-width: 750px !important;
+    }
 
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div[data-testid="sidebarColumn"].css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz {
-    margin-right: 10px !important;
-    max-width: 200px !important;
-}
-
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div[data-testid="primaryColumn"].css-1dbjc4n.r-14lw9ot.r-1gm7m50.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-11wrixw.r-61z16t.r-1ye8kvj.r-13qz1uu.r-184en5c,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div[data-testid="primaryColumn"].css-1dbjc4n.r-yfoy6g.r-18bvks7.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-11wrixw.r-61z16t.r-1ye8kvj.r-13qz1uu.r-184en5c,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div[data-testid="primaryColumn"].css-1dbjc4n.r-yfoy6g.r-18bvks7.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-11wrixw.r-61z16t.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div.css-1dbjc4n.r-1jgb5lz.r-1ye8kvj.r-13qz1uu,
-#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div[data-testid="primaryColumn"].css-1dbjc4n.r-yfoy6g.r-18bvks7.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-11wrixw.r-61z16t.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div:nth-child(2) > div > div {
-    max-width: 750px !important;
+    /* sidebar column, default value is 350px */
+    .r-1hycxz {
+        width: 200px !important;
+    }
 }
