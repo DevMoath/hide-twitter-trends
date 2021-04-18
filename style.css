@@ -24,14 +24,38 @@
         height: 0 !important;
         width: 0 !important;
     }
+}
+
+@media (min-width: 1400px) {
+    /* main column, default value is 990px */
+    .r-rthrr5 {
+        width: 1100px !important;
+    }
 
     /* timeline column, default value is 600px */
     .r-1ye8kvj {
-        max-width: 715px !important;
+        max-width: 780px !important;
     }
 
     /* sidebar column, default value is 350px */
     .r-1hycxz {
-        max-width: 250px !important;
+        max-width: 300px !important;
+    }
+}
+
+@media (min-width: 1500px) {
+    /* main column, default value is 990px */
+    .r-rthrr5 {
+        width: 1200px !important;
+    }
+
+    /* timeline column, default value is 600px */
+    .r-1ye8kvj {
+        max-width: 830px !important;
+    }
+
+    /* sidebar column, default value is 350px */
+    .r-1hycxz {
+        max-width: 350px !important;
     }
 }
