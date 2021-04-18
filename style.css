@@ -27,11 +27,11 @@
 
     /* timeline column, default value is 600px */
     .r-1ye8kvj {
-        max-width: 750px !important;
+        max-width: 715px !important;
     }
 
     /* sidebar column, default value is 350px */
     .r-1hycxz {
-        width: 200px !important;
+        max-width: 250px !important;
     }
 }
