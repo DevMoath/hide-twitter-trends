@@ -17,6 +17,8 @@
     [aria-label="الخطّ الزمنيّ: "],
     [aria-label="Tidslinje: På uppgång nu"],
     [aria-label="Rekommenderade konton"],
+    [aria-label="時間軸：流行趨勢"],
+    [aria-label="跟隨誰"],
     [aria-label="Timeline: "] {
         display: none !important;
         background-color: inherit !important;
