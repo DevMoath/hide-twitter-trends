@@ -43,6 +43,11 @@
     .r-1hycxz {
         max-width: 300px !important;
     }
+
+    /* tweet box */
+    .css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1jgb5lz.r-1ye8kvj.r-13qz1uu {
+        max-width: 600px !important;
+    }
 }
 
 @media (min-width: 1500px) {
@@ -59,5 +64,10 @@
     /* sidebar column, default value is 350px */
     .r-1hycxz {
         max-width: 350px !important;
+    }
+
+    /* tweet box */
+    .css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1jgb5lz.r-1ye8kvj.r-13qz1uu {
+        max-width: 600px !important;
     }
 }
