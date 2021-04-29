@@ -26,6 +26,11 @@
         height: 0 !important;
         width: 0 !important;
     }
+
+    /* hide the empty box in the sidebar */
+    [data-testid="sidebarColumn"] .css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-1867qdf.r-1phboty.r-rs99b7.r-7sv4c2.r-1bro5k0.r-1udh08x {
+        display: none !important;
+    }
 }
 
 @media (min-width: 1400px) {
