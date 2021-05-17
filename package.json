@@ -1,0 +1,20 @@
+{
+    "name": "hide-twitter-trends",
+    "version": "0.9.11",
+    "description": "Hide Twitter (What’s happening, Who to follow, Topics to follow) elements",
+    "scripts": {
+        "fixer": "npx prettier --write ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevMoath/hide-twitter-trends.git"
+    },
+    "author": "Moath Alhajri",
+    "bugs": {
+        "url": "https://github.com/DevMoath/hide-twitter-trends/issues"
+    },
+    "homepage": "https://github.com/DevMoath/hide-twitter-trends#readme",
+    "dependencies": {
+        "prettier": "^2.3.0"
+    }
+}
