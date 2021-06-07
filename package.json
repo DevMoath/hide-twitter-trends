@@ -14,7 +14,7 @@
         "url": "https://github.com/DevMoath/hide-twitter-trends/issues"
     },
     "homepage": "https://github.com/DevMoath/hide-twitter-trends#readme",
-    "dependencies": {
+    "devDependencies": {
         "prettier": "^2.3.0"
     }
 }
