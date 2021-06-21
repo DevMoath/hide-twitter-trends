@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hide Twitter Trends
 
-You can use the [editor on GitHub](https://github.com/DevMoath/hide-twitter-trends/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you don't like the Twitter `What’s happening`, `Who to follow`, and `Topics to follow` tabs, and you want to hide it this extension is your solution, this extension will hide Twitter `What’s happening`, `Who to follow`, and `Topics to follow` tabs from Twitter web app and let you focus on your timeline.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**NOTE**: Supported languages is `Arabic`, `English`, `Polish`, `Portuguese`, `Japanese`, `German`, and `chinese`.
 
-### Markdown
+Install the extension for [Google chrome browser](https://chrome.google.com/webstore/detail/hide-twitter-trends/lapmncfnibdclongbkleadoicnkhknia?hl=en&authuser=0)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Before enable the extension
 
-```markdown
-Syntax highlighted code block
+![before](img/before.png)
 
-# Header 1
-## Header 2
-### Header 3
+## After enable the extension
 
-- Bulleted
-- List
+![after](img/after.png)
 
-1. Numbered
-2. List
+## License
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevMoath/hide-twitter-trends/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Icons made by [Pixel perfect](https://icon54.com/) from [www.flaticon.com](https://www.flaticon.com/)
