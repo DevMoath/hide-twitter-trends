@@ -9,12 +9,20 @@
         "type": "git",
         "url": "git+https://github.com/DevMoath/hide-twitter-trends.git"
     },
-    "author": "Moath Alhajri",
+    "author": "Moath <moath.alhajrii@gmail.com> (https://moath.dev/)",
     "bugs": {
         "url": "https://github.com/DevMoath/hide-twitter-trends/issues"
     },
     "homepage": "https://github.com/DevMoath/hide-twitter-trends#readme",
     "devDependencies": {
         "prettier": "^2.3.0"
-    }
+    },
+    "prettier": {
+        "printWidth": 120,
+        "singleQuote": true,
+        "tabWidth": 4,
+        "trailingComma": "es5"
+    },
+    "keywords": [],
+    "license": "MIT"
 }

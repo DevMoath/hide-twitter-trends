@@ -2,24 +2,24 @@
     /*
      * (What’s happening, Who to follow, Topics to follow) elements in each languages supported by the extension
      */
-    [aria-label="Timeline: Trending now"],
-    [aria-label="Who to follow"],
-    [aria-label="Timeline: Aktuelle Trends"],
-    [aria-label="Wem folgen?"],
-    [aria-label="الخطّ الزمنيّ: المتداوَل الآن"],
-    [aria-label="اقتراحات المتابعة"],
-    [aria-label="Oś czasu: Aktualne trendy"],
-    [aria-label="Warci obserwowania"],
-    [aria-label="Timeline: Assuntos do momento"],
-    [aria-label="Quem seguir"],
-    [aria-label="タイムライン: トレンド"],
-    [aria-label="おすすめユーザー"],
-    [aria-label="الخطّ الزمنيّ: "],
-    [aria-label="Tidslinje: På uppgång nu"],
-    [aria-label="Rekommenderade konton"],
-    [aria-label="時間軸：流行趨勢"],
-    [aria-label="跟隨誰"],
-    [aria-label="Timeline: "] {
+    [aria-label='Timeline: Trending now'],
+    [aria-label='Who to follow'],
+    [aria-label='Timeline: Aktuelle Trends'],
+    [aria-label='Wem folgen?'],
+    [aria-label='الخطّ الزمنيّ: المتداوَل الآن'],
+    [aria-label='اقتراحات المتابعة'],
+    [aria-label='Oś czasu: Aktualne trendy'],
+    [aria-label='Warci obserwowania'],
+    [aria-label='Timeline: Assuntos do momento'],
+    [aria-label='Quem seguir'],
+    [aria-label='タイムライン: トレンド'],
+    [aria-label='おすすめユーザー'],
+    [aria-label='الخطّ الزمنيّ: '],
+    [aria-label='Tidslinje: På uppgång nu'],
+    [aria-label='Rekommenderade konton'],
+    [aria-label='時間軸：流行趨勢'],
+    [aria-label='跟隨誰'],
+    [aria-label='Timeline: '] {
         display: none !important;
         background-color: inherit !important;
         border: none !important;
@@ -28,7 +28,8 @@
     }
 
     /* hide the empty box in the sidebar */
-    [data-testid="sidebarColumn"] .css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-1867qdf.r-1phboty.r-rs99b7.r-7sv4c2.r-1bro5k0.r-1udh08x {
+    [data-testid='sidebarColumn']
+        .css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-1867qdf.r-1phboty.r-rs99b7.r-7sv4c2.r-1bro5k0.r-1udh08x {
         display: none !important;
     }
 }

@@ -13,12 +13,8 @@
     },
     "content_scripts": [
         {
-            "css": [
-                "style.css"
-            ],
-            "matches": [
-                "*://*.twitter.com/*"
-            ]
+            "css": ["style.css"],
+            "matches": ["*://*.twitter.com/*"]
         }
     ]
 }
